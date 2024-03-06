@@ -1,13 +1,9 @@
-
 import java.util.Scanner;
-
 public class MyQuadraticEquationSolver {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 System.out.println("=================================================");
-        System.out.println("Welcome to QUADRATIC EQUATION SOLVER PROGRAM!");
-       
-System.out.println("====================================================");
+        System.out.println("Welcome to QUADRATIC EQUATION SOLVER PROGRAM!"); System.out.println("====================================================");
 
         System.out.print("Enter the value of a: ");
         double a = scanner.nextDouble();
