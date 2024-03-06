@@ -27,4 +27,4 @@ This project features a basic HTML login form with accompanying CSS styling. It 
      ## Contributing
 Contributions are welcome! If you find issues or want to improve the project, please submit a pull request or open an issue.
 
-thank you!!
+THANK YOU Stay save!
