@@ -2,28 +2,27 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    
     <title>Login Form</title>
     <style>
-      
-        form {
-            border: 3px solid #f1f1f1;
+    form {
+   border: 3px solid #f1f1f1;
         }
-        /* Full-width inputs */
-        input[type=text], input[type=password] {
-            width: 100%;
-            padding: 12px 20px;
-            margin: 8px 0;
-            display: inline-block;
-            border: 1px solid #ccc;
-            box-sizing: border-box;
+ 
+       /* Full-width inputs */
+ input[type=text],input[type=password] {
+         width: 100%;
+         padding: 12px 20px;
+         margin: 8px 0px;
+         display: inline-block;
+         border: 1px solid #ccc;
+         box-sizing: border-box;
         }
         /* Set a style for all buttons */
         button {
-            background-color: #04AA6D;
+            background-color: #powderblue;
             color: white;
             padding: 14px 20px;
-            margin: 8px 0;
+            margin: 8px 0px;
             border: none;
             cursor: pointer;
             width: 100%;
@@ -32,11 +31,7 @@
         button:hover {
             opacity: 0.7;
         }
-        /*  style for the cancel button (red) */
-        .cancelbtn {
-            width: auto;
-            padding: 10px 18px;
-            background-color: #f44336;
+        nd-color: #f44336;
         }
         /* Center the avatar image inside this container */
         .imgcontainer {
@@ -53,11 +48,17 @@
             padding: 16px;
         }
         /* The "Forgot password" text */
-        span.psw {
+        p.password{
             float: right;
-            padding-top: 16px;
+           margin:auto;
+            padding-top: 5px;
         }
-        
+     /*  style for the cancel button (red) */
+        .cancelbtn {
+            width: auto;
+            padding: 16px 18px;
+            background-color: #f44336;
+        }
         
     </style>
 </head>
@@ -74,7 +75,7 @@
     <label for="uname"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="password><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
 
     <button type="submit">Login</button>
@@ -84,9 +85,10 @@
   </div>
 
   <div class="container" style="background-color:#f1f1f1">
-    <button type="button" class="cancelbtn">Cancel</button>
-    <span class="psw">Forgot <a href="#">password?</a></span>
-  </div>
+    
+    <p class="password">Forgot <a href="#">password?</a></p>
+  <button type="button" class="cancelbtn">Cancel</button>
+      </div>
 </form>
 
 </body>
