@@ -219,7 +219,7 @@ Example:
 👤 **samuel**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- email: [samuelkenaw24@gmail.com)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 
@@ -230,8 +230,9 @@ Example:
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
   👤 **treza**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [samuelkenaw@gitab.com
+- )
+-teleram: [@sambura)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
   
@@ -304,7 +305,7 @@ I would like to thank...
 
   - [Answer_1]
 
-- **[Question_2]**
+- **[how some one design login form web developent]**
 
   - [Answer_2]
 
