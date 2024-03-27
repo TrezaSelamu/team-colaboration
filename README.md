@@ -150,7 +150,11 @@ Example commands:
 ### Install
 
 Install this project with:
-
+1. Copy the entire HTML code.
+2. Paste it into a new or existing HTML file using a text editor (e.g., Notepad, Visual Studio Code, Sublime Text).
+3. Save the file with an ".html" extension (e.g., "login_form.html").
+4. Ensure the "img_avatar2.png" image is available in the specified location or replace it with your desired image.
+5. Host the HTML file on a web server that supports server-side scripting for full functionality.
 <!--
 Example command:
 
@@ -288,11 +292,7 @@ _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/
 c HTML login form with accompanying CSS styling. It provides a user-friendly interface for entering login credentials, with additional styling for responsiveness and visual appeal.
 
       ## Installation
-1. Copy the entire HTML code.
-2. Paste it into a new or existing HTML file using a text editor (e.g., Notepad, Visual Studio Code, Sublime Text).
-3. Save the file with an ".html" extension (e.g., "login_form.html").
-4. Ensure the "img_avatar2.png" image is available in the specified location or replace it with your desired image.
-5. Host the HTML file on a web server that supports server-side scripting for full functionality.
+
 
      ## Usage
 1. Open the HTML file in a web browser to view and interact with the login form.
