@@ -226,7 +226,7 @@ Example:
 👤 **yeabsira**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Twitter: [@twitterhandujle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 - - emial:jamilakoji103@gmail.com
  
