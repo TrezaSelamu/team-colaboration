@@ -221,13 +221,16 @@ Example:
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
- -phone Number:+251922761360
+ -phone Number:(+251922761360).
 
 👤 **yeabsira**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- - emial:jamilakoji103@gmail.com
+ 
+    
   👤 **treza**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
