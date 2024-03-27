@@ -59,7 +59,7 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [HOTEL MANAGEMENT SYSTEM] <a name="about-project"></a>
+# 📖 [login form] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
