@@ -247,6 +247,8 @@ Example:
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- phonenum:0974508140
+- emial:jamilakoji103@gmail.com
   
  
 
