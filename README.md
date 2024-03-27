@@ -1,6 +1,7 @@
 <a name="readme-top"></a>
 
-<!--
+<!--hihi
+
 !!! IMPORTANT !!!
 This README is an example of how you could professionally present your codebase. 
 Writing documentation is a crucial part of your work as a professional software developer and cannot be ignored. 
