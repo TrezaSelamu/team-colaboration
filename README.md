@@ -221,7 +221,7 @@ Example:
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+ -phone Number:+251922761360
 
 👤 **yeabsira**
 
@@ -301,13 +301,14 @@ I would like to thank...
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
-
+How do I set up the environment and prerequisites? 
   - [Answer_1]
-
+New developers often want clear instructions on setting up the development environment. They may ask about required software, libraries, databases, and any specific configurations needed to run the system.
+ 
 - **[Question_2]**
-
+What are the key features and functionalities of the system?
   - [Answer_2]
-
+Developers would likely inquire about the system’s capabilities. They’ll want to know what tasks the system can handle, such as room reservations, guest check-in/check-out, billing, and staff management.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
