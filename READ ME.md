@@ -67,9 +67,9 @@ For more information on the importance of a professional README for your reposit
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[HOTEL MANAGEMENT SYSTEM]** is a...
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with">HOTEL WEBSITE DESIGN</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -208,11 +208,12 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **YEABSIRA GETACHEW**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- PhoneNumber:0922761360
 
 👤 **Author2**
 
