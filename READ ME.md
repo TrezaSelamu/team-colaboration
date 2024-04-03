@@ -63,11 +63,10 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [HOTEL MANAGEMENT SYSTEM] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[HOTEL MANAGEMENT SYSTEM]** is a...
+> Hotel Management System 
+A hotel management system is a software application designed to streamline and automate various operations within a hotel or hospitality establishment. It typically includes modules for managing reservations, guest check-ins and check-outs, room assignments, billing and invoicing, inventory management, staff scheduling, and reporting.
 
 ## 🛠 Built With <a name="built-with">HOTEL WEBSITE DESIGN</a>
 
