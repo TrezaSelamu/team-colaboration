@@ -209,10 +209,10 @@ Example:
 
 👤 **SAMUEL KENAW**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [samikenaw@github)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+- LinkedIn: [LinkedIn]()
+phone+25198888098
 👤 **YEABSIRA GETACHEW**
 
 - GitHub: [@githubhandle](https://github.com/Yeabgethub)
