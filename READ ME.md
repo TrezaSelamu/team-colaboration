@@ -209,7 +209,7 @@ Example:
 
 👤 **YEABSIRA GETACHEW**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/Yeabgethub)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 - PhoneNumber:0922761360
