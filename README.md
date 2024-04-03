@@ -207,6 +207,12 @@ Example:
 
 > Mention all of the collaborators of this project.
 
+👤 **SAMUEL KENAW**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
 👤 **YEABSIRA GETACHEW**
 
 - GitHub: [@githubhandle](https://github.com/Yeabgethub)
@@ -214,11 +220,7 @@ Example:
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 - PhoneNumber:0922761360
 
-👤 **SAMUEL KENAW**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
  
 👤 **TSION TESFAYE**
 
