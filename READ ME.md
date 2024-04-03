@@ -1,4 +1,4 @@
-<a name="readme-top">HOTEL MANAGEMENT</a>
+<a name="readme-top"></a>
 
 <!--
 !!! IMPORTANT !!!
@@ -214,11 +214,30 @@ Example:
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 - PhoneNumber:0922761360
 
-👤 **Author2**
+👤 **SAMUEL KENAW**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+ 
+👤 **TSION TESFAYE**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+👤 **TREZA SELAMU**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+  
+👤 **JEMILA KOJI**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
