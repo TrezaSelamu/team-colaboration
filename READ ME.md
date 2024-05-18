@@ -156,7 +156,7 @@ Example commands:
 
 ### Install
 
-Install this heyeheyeheyeehy
+Install this heyeheyeheyeehy:
 
 <!--
 Example command:
