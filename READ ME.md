@@ -126,15 +126,37 @@ For more information on the importance of a professional README for your reposit
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
+Here are the key pre-requisites for using the Adila Hotel Management System:
 
-In order to run this project you need:
+System Requirements
+Hardware
+Minimum Processor: Intel Core i3
+Minimum RAM: 4 GB
+Minimum Disk Space: 500 GB
+Operating System
+Windows 10 or later
+macOS Big Sur or later
+Ubuntu 20.04 LTS or later
+Web Browser
+Google Chrome (version 80 or later)
+Mozilla Firefox (version 75 or later)
+Safari (version 13 or later)
+Database
+MySQL 8.0 or later
+PostgreSQL 12 or later
+Web Server
 
-<!--
-Example command:
+IntelliJ IDEA or Eclipse for Java development
+Visual Studio Code or PyCharm for Python development
+Network Requirements
+Minimum Internet Bandwidth: 10 Mbps
+Stable and reliable internet connection
 
-```sh
- gem install rails
-```
+User Permissions
+Administrator access for system configuration and management
+Manager access for hotel operations and reporting
+Staff access for day-to-day tasks and customer service
+Ensure that your hardware, software, and network infrastructure meet these requirements before deploying the Adila Hotel Management System. Additionally, obtain the necessary 
  -->
 
 ### Setup
