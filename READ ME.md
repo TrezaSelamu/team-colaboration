@@ -156,16 +156,31 @@ Example commands:
 
 ### Install
 
-Install this heyeheyeheyeehy:
+Installation
+Follow these steps to set up the Adila Hotel website:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+Prerequisites:
+Make sure you have a web server with PHP support installed (e.g., Apache, Nginx).
+Ensure you have a database management system (e.g., MySQL, PostgreSQL) installed and configured.
+Clone the Repository:
+Open your terminal or command prompt.
+Navigate to the directory where you want to install the website.
+Run the following command to clone the repository:
+Copy
+git clone https://github.com/your-username/adila-hotel-website.git
+Configure the Database:
+Create a new database for the Adila Hotel website.
+Open the config.php file located in the includes directory.
+Update the database connection details (host, username, password, database name) with your own credentials.
+Set Up the Web Server:
+Copy the contents of the adila-hotel-website directory to your web server's document root (e.g., /var/www/html/ on Linux, C:\inetpub\wwwroot\ on Windows).
+Ensure that the web server has the necessary permissions to access and execute the PHP scripts.
+Initialize the Database:
+Open a web browser and navigate to the install.php file in your website's directory (e.g., http://localhost/adila-hotel-website/install.php).
+Follow the on-screen instructions to set up the initial database structure and administrator account.
+Access the Website:
+After the installation is complete, you can access the Adila Hotel website by navigating to the root URL (e.g., http://localhost/adila-hotel-website).
+Log in using the administrator credentials you created during the installation process.
 
 ### Usage
 
