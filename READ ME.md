@@ -110,7 +110,8 @@ For more information on the importance of a professional README for your reposit
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> [Add a link to your deployed project.]
+> (https://github.com/TrezaSelamu/team-colaboration.git)
 
 - [Live Demo Link](https://google.com)
 
@@ -310,14 +311,13 @@ If you like this project...
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Project Maintainers
-John Doe
-Jane Smith
-Alex Johnson
+SAMUEL KENAW
+YEABISRA GETACHEW
+TSION TESFAYE
+TREZA SELAMU
 Core Contributors
-Samantha Lee
-Michael Chen
-Olivia Nguyen
-
+BEREKET SHEMEBO
+JEMILA KOJI
 > Give credit to everyone who inspired your codebase.
 
 I would like to thank...
