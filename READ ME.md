@@ -207,16 +207,31 @@ Example command:
 --->
 
 ### Deployment
+Follow these steps to deploy the Adila Hotel website to your production environment:
 
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+Prepare the Deployment Package:
+Ensure that you have the latest version of the Adila Hotel website code.
+Create a deployment package by compressing the entire website directory (e.g., adila-hotel-website.zip).
+Transfer the Deployment Package:
+Using a secure file transfer method (e.g., SFTP, SCP), upload the deployment package to your production server.
+Transfer the package to the appropriate directory on the server, such as /var/www/html/ on Linux or C:\inetpub\wwwroot\ on Windows.
+Extract the Deployment Package:
+Log in to your production server using the deployment user account.
+Navigate to the directory where you uploaded the deployment package.
+Extract the contents of the package using the appropriate command for your operating system (e.g., unzip adila-hotel-website.zip on Linux, Expand-Archive adila-hotel-website.zip -DestinationPath . on Windows).
+Configure the Database:
+Create a new database for the Adila Hotel website on your production server.
+Open the config.php file located in the includes directory.
+Update the database connection details (host, username, password, database name) with your production server's credentials.
+Set up the Web Server:
+Ensure that the web server has the necessary permissions to access and execute the PHP scripts.
+Configure the web server to serve the Adila Hotel website files. This may involve setting up a virtual host or modifying the server's document root.
+Initialize the Database:
+Open a web browser and navigate to the install.php file in your website's directory (e.g., https://www.adilahotel.com/install.php).
+Follow the on-screen instructions to set up the initial database structure and administrator account.
+Test the Deployment:
+Open a web browser and navigate to the Adila Hotel website using the production domain (e.g., https://www.adilahotel.com).
+Verify that the website is accessible and functioning correctly.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
