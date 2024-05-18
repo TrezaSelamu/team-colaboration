@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+ <a name="readme-top"></a>
 
 <!--
 !!! IMPORTANT !!!
@@ -69,6 +69,37 @@ For more information on the importance of a professional README for your reposit
 
 ## 🛠 Built With <a name="built-with">HOTEL WEBSITE DESIGN</a>
 
+Built With
+The Adila Hotel Management System is built using the following technologies:
+
+Programming Languages
+HTML: The standard markup language for creating web pages.
+PHP 8.0: A popular server-side scripting language used for the dynamic functionality of the website.
+JavaScript: A client-side scripting language used for interactivity and user experience enhancement.
+CSS: The style sheet language used for describing the presentation of the web pages.
+Database
+MySQL 8.0: The relational database management system used for storing and managing hotel data.
+
+
+
+Testing and Quality Assurance
+PHPUnit: A unit testing framework for PHP.
+
+
+PHP_CodeSniffer: A tool that detects violations of a defined set of coding standards.
+Other Tools and Services
+Git: The distributed version control system used for managing the project's codebase.
+GitHub: The code hosting and collaboration platform used for the project's repository.
+
+
+The combination of these technologies and tools allows the Adila Hotel Management System to provide a robust, scalable, and user-friendly hotel management solution, leveraging the strengths of HTML, PHP, JavaScript, CSS, and MySQL.
+
+Share
+
+
+
+
+
 ### Tech Stack <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
@@ -111,10 +142,9 @@ For more information on the importance of a professional README for your reposit
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your deployed project.
+https://github.com/TrezaSelamu/team-colaboration.git
 
-- [Live Demo Link](https://google.com)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -126,15 +156,12 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+Before you begin the deployment process, ensure that you have the following:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+Production Server: A web server with PHP and a database management system (e.g., MySQL, PostgreSQL) installed and configured.
+Domain Name: A domain name (e.g., adilahotel.com) that will be used to access the website.
+SSL/TLS Certificate: A valid SSL/TLS certificate to enable HTTPS for the website.
+Deployment User: A user account with the necessary permissions to deploy the website and manage the production server.
 
 ### Setup
 <div>
@@ -183,28 +210,46 @@ After the installation is complete, you can access the Adila Hotel website by na
 Log in using the administrator credentials you created during the installation process.
 
 ### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+Hotel Management
+Room Management: Add, update, and manage hotel room information, including room types, availability, and pricing.
+Reservation Management: Handle guest reservations, including check-in, check-out, and room assignments.
+Billing and Invoicing: Generate invoices, process payments, and manage financial transactions.
+Reporting and Analytics: Access real-time reports and analytics on hotel occupancy, revenue, and guest trends.
+Guest Management
+Guest Registration: Facilitate the registration of new guests, collecting essential information such as contact details and preferences.
+Guest Profile Management: Maintain and update guest profiles, including past stays, preferences, and loyalty program information.
+Guest Communication: Communicate with guests through email or SMS, sending updates, promotions, and other relevant information.
+Online Booking: Allow guests to easily book their hotel stay through a user-friendly online booking system.
+Food and Dining
+Menu Management: Maintain and update the hotel's food and beverage menu, including item descriptions, pricing, and dietary information.
+Online Ordering: Enable guests to place food and drink orders directly through the hotel's website or mobile app.
+Order Tracking: Monitor and manage incoming food orders, ensuring timely preparation and delivery.
+Integration with Kitchen: Seamlessly integrate the online ordering system with the hotel's kitchen operations for efficient order fulfillment.
+Employee Management
+Employee Scheduling: Manage employee schedules, shifts, and timekeeping for efficient hotel operations.
+Task Allocation: Assign specific tasks and responsibilities to hotel staff, ensuring smooth workflow.
+Performance Tracking: Monitor and evaluate employee performance, supporting professional development and training.
 
 ### Run tests
 
-To run tests, run the following command:
+To ensure the Adila Hotel website is functioning correctly, you can run the following tests:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+Unit Tests:
+Navigate to the tests directory in your project.
+Run the following command to execute the unit tests:
+Copy
+php vendor/bin/phpunit tests/unit
+Integration Tests:
+Navigate to the tests directory in your project.
+Run the following command to execute the integration tests:
+Copy
+php vendor/bin/phpunit tests/integration
+End-to-End (E2E) Tests:
+Ensure you have a web browser (e.g., Google Chrome, Firefox) installed on your system.
+Navigate to the tests/e2e directory.
+Run the following command to execute the E2E tests:
+Copy
+php vendor/bin/codecept run
 
 ### Deployment
 Follow these steps to deploy the Adila Hotel website to your production environment:
