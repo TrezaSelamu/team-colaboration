@@ -184,16 +184,25 @@ After the installation is complete, you can access the Adila Hotel website by na
 Log in using the administrator credentials you created during the installation process.
 
 ### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+Hotel Management
+Room Management: Add, update, and manage hotel room information, including room types, availability, and pricing.
+Reservation Management: Handle guest reservations, including check-in, check-out, and room assignments.
+Billing and Invoicing: Generate invoices, process payments, and manage financial transactions.
+Reporting and Analytics: Access real-time reports and analytics on hotel occupancy, revenue, and guest trends.
+Guest Management
+Guest Registration: Facilitate the registration of new guests, collecting essential information such as contact details and preferences.
+Guest Profile Management: Maintain and update guest profiles, including past stays, preferences, and loyalty program information.
+Guest Communication: Communicate with guests through email or SMS, sending updates, promotions, and other relevant information.
+Online Booking: Allow guests to easily book their hotel stay through a user-friendly online booking system.
+Food and Dining
+Menu Management: Maintain and update the hotel's food and beverage menu, including item descriptions, pricing, and dietary information.
+Online Ordering: Enable guests to place food and drink orders directly through the hotel's website or mobile app.
+Order Tracking: Monitor and manage incoming food orders, ensuring timely preparation and delivery.
+Integration with Kitchen: Seamlessly integrate the online ordering system with the hotel's kitchen operations for efficient order fulfillment.
+Employee Management
+Employee Scheduling: Manage employee schedules, shifts, and timekeeping for efficient hotel operations.
+Task Allocation: Assign specific tasks and responsibilities to hotel staff, ensuring smooth workflow.
+Performance Tracking: Monitor and evaluate employee performance, supporting professional development and training.
 
 ### Run tests
 
