@@ -63,7 +63,7 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [HOTEL MANAGEMENT SYSTEM] <a name="about-project"></a>
+# 📖 [ ADILA HOTEL MANAGEMENT SYSTEM] <a name="about-project"></a>
 
 > Hotel Management System 
 A hotel management system is a software application designed to streamline and automate various operations within a hotel or hospitality establishment. It typically includes modules for managing reservations, guest check-ins and check-outs, room assignments, billing and invoicing, inventory management, staff scheduling, and reporting.
@@ -101,9 +101,9 @@ A hotel management system is a software application designed to streamline and a
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[ONLINE BOOKING]**
+- **[CUSTOMER REALTION MANAGEMENT]**
+- **[FINITIOAL ISSUE]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
