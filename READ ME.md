@@ -309,7 +309,14 @@ If you like this project...
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Project Maintainers
+John Doe
+Jane Smith
+Alex Johnson
+Core Contributors
+Samantha Lee
+Michael Chen
+Olivia Nguyen
 
 > Give credit to everyone who inspired your codebase.
 
