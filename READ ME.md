@@ -137,13 +137,14 @@ Example command:
  -->
 
 ### Setup
-
+<div>
 1.Clone the repository:
 Example commands:
-  git clone https://github.com/samikenaw/hotel-management-system.git
+  git clone https://github.com/samikenaw/hotel-management-system.git</div>
+  <div>
 2.Change to the project directory:
 Example commands:
-cd hotel-management-system
+cd hotel-management-system </div>
 <!--
 Example commands:
 
