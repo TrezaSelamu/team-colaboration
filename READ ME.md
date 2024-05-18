@@ -138,8 +138,12 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
-
+1.Clone the repository:
+Example commands:
+  git clone https://github.com/samikenaw/hotel-management-system.git
+2.Change to the project directory:
+Example commands:
+cd hotel-management-system
 <!--
 Example commands:
 
