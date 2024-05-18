@@ -66,8 +66,7 @@ For more information on the importance of a professional README for your reposit
 # 📖 [HOTEL MANAGEMENT SYSTEM] <a name="about-project"></a>
 
 > Hotel Management System 
-A hotel management system is a software application designed to streamline and automate various operations within a hotel or hospitality establishment. It typically includes modules for managing reservations, guest check-ins and check-outs, room assignments, billing and invoicing, inventory management, staff scheduling, and reporting.
-
+The Hotel Management System is a comprehensive software application designed to streamline and automate various operations within the Adila Hotel. It includes modules for managing reservations, guest check-ins and check-outs, room assignments, billing and invoicing, inventory management, staff scheduling, and reporting.
 ## 🛠 Built With <a name="built-with">HOTEL WEBSITE DESIGN</a>
 
 ### Tech Stack <a name="tech-stack"></a>
