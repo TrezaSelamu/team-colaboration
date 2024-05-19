@@ -163,7 +163,7 @@ Ensure that your hardware, software, and network infrastructure meet these requi
 <div>
 1.Clone the repository:
 Example commands:
-  git clone https://github.com/samikenaw/hotel-management-system.git</div>
+   git clone https://github.com/trezaselamu teamcolabration/hotel-management-system.git</div>
   <div>
 2.Change to the project directory:
 Example commands:
