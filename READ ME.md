@@ -229,15 +229,23 @@ Performance Tracking: Monitor and evaluate employee performance, supporting prof
 ### Run tests
 
 To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
+PHP Tests:
+Locate the PHP test suite in the project. This is usually in a dedicated tests/ or test/ directory.
+Identify the test runner or framework being used, such as PHPUnit, Codeception, or Laravel's built-in testing tools.
+Run the PHP tests using the appropriate command for the test framework, for example:
+Copy
+# Using PHPUnit
+./vendor/bin/phpunit tests/
+JavaScript Tests:
+Locate the JavaScript test suite in the project. This may be in a tests/ or __tests__/ directory.
+Determine the test runner or framework being used, such as Jest, Mocha, or Cypress.
+Run the JavaScript tests using the appropriate command for the test framework, for example:
+Copy
+# Using Jest
+npm run test
+End-to-End (E2E) Tests:
+If the project includes end-to-end tests, these may be written in JavaScript and use a tool like Selenium, Cypress, or Puppeteer.
+Locate the E2E test suite and run the tests using the appropriate command for the framework.
 ### Deployment
 Follow these steps to deploy the Adila Hotel website to your production environment:
 
