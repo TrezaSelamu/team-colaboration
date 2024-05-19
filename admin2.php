@@ -111,7 +111,7 @@ function viewBookings() {
         
 <footer>
 <div class="copyright">
-            <p>Copyright © 2016 Adila Hotel Website. All Rights Reserved.</p>
+            <p>Copyright © 2016 Ethiopian calendar Adila Hotel Website. All Rights Reserved.</p>
         </div>
     </footer>
 </body>
@@ -122,5 +122,6 @@ function viewBookings() {
 </html>
  <?php
 // Close the database connection
+
 $mysqli->close();
 ?>
