@@ -63,10 +63,9 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [HOTEL MANAGEMENT SYSTEM] <a name="about-project"></a>
+# 📖 [ About the Project] <a name="about-project"></a>
 
-> Hotel Management System 
-A hotel management system is a software application designed to streamline and automate various operations within a hotel or hospitality establishment. It typically includes modules for managing reservations, guest check-ins and check-outs, room assignments, billing and invoicing, inventory management, staff scheduling, and reporting.
+>The Hotel Management System is a comprehensive software application designed to streamline and automate various operations within the Adila Hotel. It includes modules for managing reservations, guest check-ins and check-outs, room assignments, billing and invoicing, inventory management, staff scheduling, and reporting.
 
 ## 🛠 Built With <a name="built-with">HOTEL WEBSITE DESIGN</a>
 
@@ -77,14 +76,15 @@ A hotel management system is a software application designed to streamline and a
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://js.org/">React.js</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://php/">.js</a></li>
+    <li><a href="https://php/">php</a></li>
   </ul>
 </details>
 
@@ -101,9 +101,9 @@ A hotel management system is a software application designed to streamline and a
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[ONLINE BOOKING]**
+- **[CUSTOMER REALTION MANAGEMENT]**
+- **[FINITIOAL ISSUE]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,7 +111,8 @@ A hotel management system is a software application designed to streamline and a
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> [Add a link to your deployed project.]
+> (https://github.com/TrezaSelamu/team-colaboration.git)
 
 - [Live Demo Link](https://google.com)
 
@@ -126,21 +127,48 @@ A hotel management system is a software application designed to streamline and a
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
+Here are the key pre-requisites for using the Adila Hotel Management System:
 
-In order to run this project you need:
+System Requirements
+Hardware
+Minimum Processor: Intel Core i3
+Minimum RAM: 4 GB
+Minimum Disk Space: 500 GB
+Operating System
+Windows 10 or later
+macOS Big Sur or later
+Ubuntu 20.04 LTS or later
+Web Browser
+Google Chrome (version 80 or later)
+Mozilla Firefox (version 75 or later)
+Safari (version 13 or later)
+Database
+MySQL 8.0 or later
+PostgreSQL 12 or later
+Web Server
 
-<!--
-Example command:
+IntelliJ IDEA or Eclipse for Java development
+Visual Studio Code or PyCharm for Python development
+Network Requirements
+Minimum Internet Bandwidth: 10 Mbps
+Stable and reliable internet connection
 
-```sh
- gem install rails
-```
+User Permissions
+Administrator access for system configuration and management
+Manager access for hotel operations and reporting
+Staff access for day-to-day tasks and customer service
+Ensure that your hardware, software, and network infrastructure meet these requirements before deploying the Adila Hotel Management System. Additionally, obtain the necessary 
  -->
 
 ### Setup
-
-Clone this repository to your desired folder:
-
+<div>
+1.Clone the repository:
+Example commands:
+    git clone https://github.com/trezaselamu teamcolabration/hotel-management-system.git</div></div>
+  <div>
+2.Change to the project directory:
+Example commands:
+cd hotel-management-system </div>
 <!--
 Example commands:
 
@@ -152,52 +180,99 @@ Example commands:
 
 ### Install
 
-Install this project with:
+Installation
+Follow these steps to set up the Adila Hotel website:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+Prerequisites:
+Make sure you have a web server with PHP support installed (e.g., Apache, Nginx).
+Ensure you have a database management system (e.g., MySQL, PostgreSQL) installed and configured.
+Clone the Repository:
+Open your terminal or command prompt.
+Navigate to the directory where you want to install the website.
+Run the following command to clone the repository:
+Copy
+git clone https://github.com/your-username/adila-hotel-website.git
+Configure the Database:
+Create a new database for the Adila Hotel website.
+Open the config.php file located in the includes directory.
+Update the database connection details (host, username, password, database name) with your own credentials.
+Set Up the Web Server:
+Copy the contents of the adila-hotel-website directory to your web server's document root (e.g., /var/www/html/ on Linux, C:\inetpub\wwwroot\ on Windows).
+Ensure that the web server has the necessary permissions to access and execute the PHP scripts.
+Initialize the Database:
+Open a web browser and navigate to the install.php file in your website's directory (e.g., http://localhost/adila-hotel-website/install.php).
+Follow the on-screen instructions to set up the initial database structure and administrator account.
+Access the Website:
+After the installation is complete, you can access the Adila Hotel website by navigating to the root URL (e.g., http://localhost/adila-hotel-website).
+Log in using the administrator credentials you created during the installation process.
 
 ### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+Hotel Management
+Room Management: Add, update, and manage hotel room information, including room types, availability, and pricing.
+Reservation Management: Handle guest reservations, including check-in, check-out, and room assignments.
+Billing and Invoicing: Generate invoices, process payments, and manage financial transactions.
+Reporting and Analytics: Access real-time reports and analytics on hotel occupancy, revenue, and guest trends.
+Guest Management
+Guest Registration: Facilitate the registration of new guests, collecting essential information such as contact details and preferences.
+Guest Profile Management: Maintain and update guest profiles, including past stays, preferences, and loyalty program information.
+Guest Communication: Communicate with guests through email or SMS, sending updates, promotions, and other relevant information.
+Online Booking: Allow guests to easily book their hotel stay through a user-friendly online booking system.
+Food and Dining
+Menu Management: Maintain and update the hotel's food and beverage menu, including item descriptions, pricing, and dietary information.
+Online Ordering: Enable guests to place food and drink orders directly through the hotel's website or mobile app.
+Order Tracking: Monitor and manage incoming food orders, ensuring timely preparation and delivery.
+Integration with Kitchen: Seamlessly integrate the online ordering system with the hotel's kitchen operations for efficient order fulfillment.
+Employee Management
+Employee Scheduling: Manage employee schedules, shifts, and timekeeping for efficient hotel operations.
+Task Allocation: Assign specific tasks and responsibilities to hotel staff, ensuring smooth workflow.
+Performance Tracking: Monitor and evaluate employee performance, supporting professional development and training.
 
 ### Run tests
 
 To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
+PHP Tests:
+Locate the PHP test suite in the project. This is usually in a dedicated tests/ or test/ directory.
+Identify the test runner or framework being used, such as PHPUnit, Codeception, or Laravel's built-in testing tools.
+Run the PHP tests using the appropriate command for the test framework, for example:
+Copy
+# Using PHPUnit
+./vendor/bin/phpunit tests/
+JavaScript Tests:
+Locate the JavaScript test suite in the project. This may be in a tests/ or __tests__/ directory.
+Determine the test runner or framework being used, such as Jest, Mocha, or Cypress.
+Run the JavaScript tests using the appropriate command for the test framework, for example:
+Copy
+# Using Jest
+npm run test
+End-to-End (E2E) Tests:
+If the project includes end-to-end tests, these may be written in JavaScript and use a tool like Selenium, Cypress, or Puppeteer.
+Locate the E2E test suite and run the tests using the appropriate command for the framework.
 ### Deployment
+Follow these steps to deploy the Adila Hotel website to your production environment:
 
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+Prepare the Deployment Package:
+Ensure that you have the latest version of the Adila Hotel website code.
+Create a deployment package by compressing the entire website directory (e.g., adila-hotel-website.zip).
+Transfer the Deployment Package:
+Using a secure file transfer method (e.g., SFTP, SCP), upload the deployment package to your production server.
+Transfer the package to the appropriate directory on the server, such as /var/www/html/ on Linux or C:\inetpub\wwwroot\ on Windows.
+Extract the Deployment Package:
+Log in to your production server using the deployment user account.
+Navigate to the directory where you uploaded the deployment package.
+Extract the contents of the package using the appropriate command for your operating system (e.g., unzip adila-hotel-website.zip on Linux, Expand-Archive adila-hotel-website.zip -DestinationPath . on Windows).
+Configure the Database:
+Create a new database for the Adila Hotel website on your production server.
+Open the config.php file located in the includes directory.
+Update the database connection details (host, username, password, database name) with your production server's credentials.
+Set up the Web Server:
+Ensure that the web server has the necessary permissions to access and execute the PHP scripts.
+Configure the web server to serve the Adila Hotel website files. This may involve setting up a virtual host or modifying the server's document root.
+Initialize the Database:
+Open a web browser and navigate to the install.php file in your website's directory (e.g., https://www.adilahotel.com/install.php).
+Follow the on-screen instructions to set up the initial database structure and administrator account.
+Test the Deployment:
+Open a web browser and navigate to the Adila Hotel website using the production domain (e.g., https://www.adilahotel.com).
+Verify that the website is accessible and functioning correctly.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -243,13 +318,6 @@ Example:
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -275,8 +343,14 @@ If you like this project...
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
+## 🙏 Project Maintainers
+SAMUEL KENAW
+YEABISRA GETACHEW
+TSION TESFAYE
+TREZA SELAMU
+Core Contributors
+BEREKET SHEMEBO
+JEMILA KOJI
 > Give credit to everyone who inspired your codebase.
 
 I would like to thank...
